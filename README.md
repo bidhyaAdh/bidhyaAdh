@@ -1,19 +1,17 @@
 # 👋 Hi there, I'm Bidhya!
 
-A passionate Software Engineer 🚀, currently studying Computer Engineering. I'm on a journey of continuous learning and growth. Feel free to connect with me!
+A passionate Software Engineer💻 , currently studying Computer Engineering. I'm on a journey of continuous learning and growth. Feel free to connect with me!
 
-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="margin-left: 20px; margin-bottom: 20px;">
-<br style="clear:both;">
+<img align="left" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="margin-top: 20px; margin-left: 20px; padding-top: 20px; padding-left: 20px;">
 
-## 🌟 About Me
+🌟 About Me
 
 - 🔭 I’m currently learning on Java.
 - 🌱 I’m also exploring new technologies and expanding my skill set.
 - 📫 How to reach me: [bidhyaadhikari775@gmail.com](mailto:bidhyaadhikari775@gmail.com)
+---
 
-
-
-## 🚀 Tech Stack
+ 🚀 Tech Stack
 
 ### Languages & Frameworks:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -29,7 +27,7 @@ A passionate Software Engineer 🚀, currently studying Computer Engineering. I'
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
+---
 
 ## 📊 GitHub Stats
 
@@ -39,13 +37,13 @@ A passionate Software Engineer 🚀, currently studying Computer Engineering. I'
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidhyaAdh&theme=dark&hide_border=true&layout=compact&langs_count=6)
 
-
+---
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bidhya-adhikari)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bidhyaa1)
 
-
+---
 
 Thanks for visiting! 😊
