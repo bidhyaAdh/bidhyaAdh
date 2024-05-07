@@ -2,8 +2,6 @@
 
 A passionate Software Engineer💻 , currently studying Computer Engineering. I'm on a journey of continuous learning and growth. Feel free to connect with me!
 
-<img align="left" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="margin-top: 20px; margin-left: 20px; padding-top: 20px; padding-left: 20px;">
-
 🌟 About Me
 
 - 🔭 I’m currently learning on Java.
@@ -25,7 +23,6 @@ A passionate Software Engineer💻 , currently studying Computer Engineering. I'
 
 ### Tools & Others:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
