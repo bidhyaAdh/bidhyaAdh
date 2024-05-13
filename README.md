@@ -43,4 +43,4 @@ A passionate Software Engineer💻 , currently studying Computer Engineering. I'
 
 ---
 
-Thanks for visiting! 😊
+Thanks for visiting!😊
