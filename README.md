@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Bidhya!
 
-A passionate Software Engineer💻 , currently studying Computer Engineering. I'm on a journey of continuous learning and growth. Feel free to connect with me!
+A passionate Software Engineer💻, currently studying Computer Engineering. I'm on a journey of continuous learning and growth. Feel free to connect with me!
 
 🌟 About Me
 
@@ -43,4 +43,4 @@ A passionate Software Engineer💻 , currently studying Computer Engineering. I'
 
 ---
 
-Thanks for visiting!😊
+Thanks for visiting!!😊
