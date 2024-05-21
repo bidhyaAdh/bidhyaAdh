@@ -30,8 +30,6 @@ A passionate Software Engineer💻, currently studying Computer Engineering. I'm
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bidhyaAdh&theme=dark&hide_border=true&show_icons=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bidhyaAdh&theme=dark&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidhyaAdh&theme=dark&hide_border=true&layout=compact&langs_count=6)
 
 ---
